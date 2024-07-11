@@ -1,4 +1,4 @@
-console.log("script inputed")
+console.log("script inputed");
 
 function beforesubmit(){
     let outputdate=document.querySelector(".outputdate");
